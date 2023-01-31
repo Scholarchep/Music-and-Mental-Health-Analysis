@@ -1,4 +1,4 @@
-# Music-and-Mental-Health-Analysis
+# MUSIC AND MENTAL HEALTH ANALYSIS
 
 ![My image](Images/mental_health.png)
 
@@ -39,7 +39,7 @@ The music genre that should often be used during therapy sessions is Classical.
 Other music genres that should be considered are Country and Gospel music genres.
 
 ##  For More Information
-See the full analysis in the [Jupyter Notebook](https://github.com/Scholarchep/Music-and-Mental-Health-Analysis/blob/master/music_therapy.ipynb) or review this [presentation](https://github.com/Scholarchep/Music-and-Mental-Health-Analysis/blob/master/music_therapy_presentation.pdf).
+See the full analysis in the [Jupyter Notebook](https://github.com/Scholarchep/Music-and-Mental-Health-Analysis/blob/main/music_therapy.ipynb) or review this [presentation](https://github.com/Scholarchep/Music-and-Mental-Health-Analysis/blob/main/music_therapy_presentation.pdf).
 For additional information, contact Scholar Chepkirui at scholarchepkirui@gmail.com
 
 
